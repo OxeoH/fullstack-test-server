@@ -1,3 +1,14 @@
+## Don't forget to add .env file
+```bash
+DB_HOST=john.db.elephantsql.com
+DB_PASSWORD=b7WZXBMYc3i9qf6Qi_KMimoqFVZR0TSS
+DB_NAME=dkoknbwm
+DB_USERNAME=dkoknbwm
+DB_PORT=5432
+SECRET_KEY='FullstackDevSecret'
+EXPIRES_IN='1d'
+```
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
